@@ -1,0 +1,26 @@
+_repo: The-Far-Horizon_8569
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Malet, Lucas
+    alias: Harrison, Mary St. Leger Kingsley
+    birthdate: 1852
+    deathdate: 1931
+    gutenberg_agent_id: '2808'
+    url: http://www.gutenberg.org/2009/agents/2808
+    wikipedia: http://en.wikipedia.org/wiki/Lucas_Malet
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Far Horizon
+url: http://www.gutenberg.org/ebooks/8569
